@@ -1,4 +1,4 @@
-# auth_app
+# Onboarding Screens
 
 Our Work.
 ![Aperçu](preview.png)
